@@ -1,0 +1,14 @@
+{
+  classes: [
+    {id: 1, name: 'Psychology 101', studentsNo: 12, term: 'Spring', year: 2023},
+    {id: 2, name: 'Culturology  555', studentsNo: 45, term: 'Spring', year: 2023},
+    {id: 3, name: 'Psychology', studentsNo: 2, professor: 'Cristofer Calzoni', term: 'Spring', year: 2022},
+    {id: 4, name: 'Philosophy 924', studentsNo: 452, term: 'Spring', year: 2020},
+    {id: 5, name: 'CompSci', studentsNo: 74, professor: 'Cristofer Calzoni', term: 'Spring', year: 2023},
+    {id: 6, name: 'Psychology 101', studentsNo: 6, professor: 'Cristofer Calzoni', term: 'Spring', year: 2023},
+    {id: 7, name: 'Psychology 101', studentsNo: 12, professor: 'Cristofer Calzoni', term: 'Spring', year: 2023},
+    {id: 8, name: 'Psychology 101', studentsNo: 12, professor: 'Cristofer Calzoni', term: 'Spring', year: 2023},
+    {id: 9, name: 'Psychology 101', studentsNo: 12, professor: 'Cristofer Calzoni', term: 'Spring', year: 2023},
+    {id: 10, name: 'Psychology 101', studentsNo: 12, professor: 'Cristofer Calzoni', term: 'Spring', year: 2023},
+  ]
+}
