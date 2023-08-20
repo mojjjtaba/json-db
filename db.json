@@ -204,6 +204,76 @@
       "id": 2
     }
   ],
+  "writings": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "assessmentId": 1,
+      "title": "1. Technology and its Impact longer tittle for essay its best",
+      "class": "Psychology 101",
+      "dueDate": "13.02.2012",
+      "uploadDate": "13.02.2012",
+      "status": "Submitted",
+      "shared": true,
+      "fileName": "Technology_and_its_impact.pdf",
+      "fileSize": "124500",
+      "firstName": "Mojtaba",
+      "lastName": "Hayati",
+      "email": "example@gmail.com",
+      "writing": "Modernity presents a multitude of challenges that shape our world today.\n            Technological advancements <span class=\"writing-highlight-word\">Ethan</span> communication, but they have also led to\n            increased isolation and decreased face-to-face interactions. Globalization\n            has opened up new opportunities for trade and cultural exchange, but it has\n            also given rise to economic <span class=\"writing-highlight-word\">inequality</span> and loss of cultural diversity.\n            Environmental degradation threatens the sustainability of our planet, Anderson\n            urgent action. Mental health issues are on the rise, with stress and anxiety\n            becoming prevalent. Political polarization divides societies and hampers effective\n            governance. As we navigate these <span class=\"writing-highlight-word\">email@example.com</span>, it is essential to foster dialogue,\n            promote empathy, and seek sustainable solutions for a more harmonious and equitable future."
+    },
+    {
+      "id": 2,
+      "studentId": 1,
+      "assessmentId": 1,
+      "title": "2. Technology and its Impact longer tittle for essay its best",
+      "class": "Math 202",
+      "dueDate": "25.10.2023",
+      "uploadDate": "25.10.2023",
+      "status": "Not uploaded",
+      "shared": false,
+      "fileName": "Technology_and_its_impact.pdf",
+      "fileSize": "2489990",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@gmail.com",
+      "writing": "Modernity presents a multitude of challenges that shape our world today.\n            Technological advancements <span class=\"writing-highlight-word\">Ethan</span> communication, but they have also led to\n            increased isolation and decreased face-to-face interactions. Globalization\n            has opened up new opportunities for trade and cultural exchange, but it has\n            also given rise to economic <span class=\"writing-highlight-word\">inequality</span> and loss of cultural diversity.\n            Environmental degradation threatens the sustainability of our planet, Anderson\n            urgent action. Mental health issues are on the rise, with stress and anxiety\n            becoming prevalent. Political polarization divides societies and hampers effective\n            governance. As we navigate these <span class=\"writing-highlight-word\">email@example.com</span>, it is essential to foster dialogue,\n            promote empathy, and seek sustainable solutions for a more harmonious and equitable future."
+    },
+    {
+      "id": 3,
+      "studentId": 1,
+      "assessmentId": 3,
+      "title": "3. Technology and its Impact longer tittle for essay its best",
+      "class": "Culturology  555",
+      "dueDate": "02.12.2001",
+      "uploadDate": "02.12.2001",
+      "status": "Ready for review",
+      "shared": false,
+      "fileName": "Technology_and_its_impact.pdf",
+      "fileSize": "45000",
+      "firstName": "Brad",
+      "lastName": "Brandon",
+      "email": "Imani_McCullough@gmail.com",
+      "writing": "Modernity presents a multitude of challenges that shape our world today.\n            Technological advancements <span class=\"writing-highlight-word\">Ethan</span> communication, but they have also led to\n            increased isolation and decreased face-to-face interactions. Globalization\n            has opened up new opportunities for trade and cultural exchange, but it has\n            also given rise to economic <span class=\"writing-highlight-word\">inequality</span> and loss of cultural diversity.\n            Environmental degradation threatens the sustainability of our planet, Anderson\n            urgent action. Mental health issues are on the rise, with stress and anxiety\n            becoming prevalent. Political polarization divides societies and hampers effective\n            governance. As we navigate these <span class=\"writing-highlight-word\">email@example.com</span>, it is essential to foster dialogue,\n            promote empathy, and seek sustainable solutions for a more harmonious and equitable future."
+    },
+    {
+      "id": 4,
+      "studentId": 1,
+      "assessmentId": 3,
+      "title": "4. Technology and its Impact longer tittle for essay its best",
+      "class": "CompSci",
+      "dueDate": "02.12.2001",
+      "uploadDate": "02.12.2001",
+      "status": "Reviewed",
+      "shared": true,
+      "fileName": "Technology_and_its_impact.pdf",
+      "fileSize": "88000084",
+      "firstName": "Brad",
+      "lastName": "Brandon",
+      "email": "Imani_McCullough@gmail.com",
+      "writing": "Modernity presents a multitude of challenges that shape our world today.\n            Technological advancements <span class=\"writing-highlight-word\">Ethan</span> communication, but they have also led to\n            increased isolation and decreased face-to-face interactions. Globalization\n            has opened up new opportunities for trade and cultural exchange, but it has\n            also given rise to economic <span class=\"writing-highlight-word\">inequality</span> and loss of cultural diversity.\n            Environmental degradation threatens the sustainability of our planet, Anderson\n            urgent action. Mental health issues are on the rise, with stress and anxiety\n            becoming prevalent. Political polarization divides societies and hampers effective\n            governance. As we navigate these <span class=\"writing-highlight-word\">email@example.com</span>, it is essential to foster dialogue,\n            promote empathy, and seek sustainable solutions for a more harmonious and equitable future."
+    }
+  ],
   "analyses": [
     {
       "writingMetrics": {
@@ -323,6 +393,1035 @@
           "answer": "Neque, faucibus fames at et rhoncus pellentesque. Scelerisque commodo nunc tellus, elit semper tempus. Tristique ac tincidunt velit netus ipsum rutrum id ut. Vel metus, condimentum ut amet, lectus neque tincidunt placerat. Neque, faucibus fames at et rhoncus pellentesque. Scelerisque commodo nunc tellus, elit semper tempus. Tristique ac tincidunt velit netus ipsum rutrum id ut. Vel metus, condimentum ut amet, lectus neque tincidunt placerat."
         }
       ]
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "writingNo": 55,
+      "classesNo": 62,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "Culturology  555",
+        "Math 202"
+      ],
+      "email": "example@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Mojtaba",
+      "lastName": "Hayat",
+      "writingNo": 55,
+      "classesNo": 54,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924"
+      ],
+      "email": "hayat@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Brad",
+      "lastName": "Brandon",
+      "writingNo": 55,
+      "classesNo": 45,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [],
+      "email": "brad@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Zack",
+      "lastName": "Anderson",
+      "writingNo": 55,
+      "classesNo": 23,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci"
+      ],
+      "email": "zack@gmail.com"
+    },
+    {
+      "firstName": "Myron",
+      "lastName": "Leuschke",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101"
+      ],
+      "email": "Imani_McCullough@gmail.com",
+      "id": 5
+    },
+    {
+      "firstName": "Angeline",
+      "lastName": "Lueilwitz",
+      "writingNo": 55,
+      "classesNo": 4,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology",
+        "Math 202",
+        "Culturology  555",
+        "Psychology",
+        "Math 202"
+      ],
+      "email": "Deja.Hermann@hotmail.com",
+      "id": 6
+    },
+    {
+      "firstName": "Rosie",
+      "lastName": "Von",
+      "writingNo": 55,
+      "classesNo": 122,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Rubye27@gmail.com",
+      "id": 7
+    },
+    {
+      "firstName": "Aliya",
+      "lastName": "Walter",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2022",
+      "classes": [
+        "Culturology  555"
+      ],
+      "email": "Alisa30@gmail.com",
+      "id": 8
+    },
+    {
+      "firstName": "Blake",
+      "lastName": "Fritsch",
+      "writingNo": 55,
+      "classesNo": 80,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [],
+      "email": "Lesly.Franecki89@gmail.com",
+      "id": 9
+    },
+    {
+      "firstName": "Alba",
+      "lastName": "Macejkovic",
+      "writingNo": 55,
+      "classesNo": 30,
+      "status": "active",
+      "lastUpload": "12.10.2023",
+      "classes": [],
+      "email": "Breanne_Gulgowski9@yahoo.com",
+      "id": 10
+    },
+    {
+      "firstName": "Niko",
+      "lastName": "Pouros",
+      "writingNo": 55,
+      "classesNo": 35,
+      "status": "active",
+      "lastUpload": "11.08.2003",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Stewart.Reichel33@hotmail.com",
+      "id": 11
+    },
+    {
+      "firstName": "Karson",
+      "lastName": "Kohler",
+      "writingNo": 55,
+      "classesNo": 75,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Bernie.Jast@hotmail.com",
+      "id": 12
+    },
+    {
+      "firstName": "Kristina",
+      "lastName": "Smitham",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Beatrice96@yahoo.com",
+      "id": 13
+    },
+    {
+      "firstName": "Stefan",
+      "lastName": "Bashirian",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Marlene_Moen@gmail.com",
+      "id": 14
+    },
+    {
+      "firstName": "Karlee",
+      "lastName": "O'Conner",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology",
+        "Math 202"
+      ],
+      "email": "Haven.Heidenreich@yahoo.com",
+      "id": 15
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Kohler",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Earlene.Lebsack51@yahoo.com",
+      "id": 16
+    },
+    {
+      "firstName": "Bryce",
+      "lastName": "Rempel",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Dixie.Hessel88@gmail.com",
+      "id": 17
+    },
+    {
+      "firstName": "Lisandro",
+      "lastName": "Mann",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Nannie.Cassin95@gmail.com",
+      "id": 18
+    },
+    {
+      "firstName": "Beaulah",
+      "lastName": "Beer",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Kelley_Kiehn@gmail.com",
+      "id": 19
+    },
+    {
+      "firstName": "Joana",
+      "lastName": "Mayer",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Kayli_Okuneva19@gmail.com",
+      "id": 20
+    },
+    {
+      "firstName": "Keaton",
+      "lastName": "Klocko",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Salvador_Hamill71@yahoo.com",
+      "id": 21
+    },
+    {
+      "firstName": "Ana",
+      "lastName": "Klocko",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Sadye43@yahoo.com",
+      "id": 22
+    },
+    {
+      "firstName": "Chance",
+      "lastName": "Robel",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology",
+        "Math 202"
+      ],
+      "email": "Cesar.Connelly44@hotmail.com",
+      "id": 23
+    },
+    {
+      "firstName": "Shad",
+      "lastName": "McGlynn",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Hunter17@yahoo.com",
+      "id": 24
+    },
+    {
+      "firstName": "Delia",
+      "lastName": "Walker",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Darryl81@gmail.com",
+      "id": 25
+    },
+    {
+      "firstName": "Willard",
+      "lastName": "Towne",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [],
+      "email": "Brandt.OReilly@hotmail.com",
+      "id": 26
+    },
+    {
+      "firstName": "Harry",
+      "lastName": "Wilderman",
+      "writingNo": 3,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Haven_Homenick@yahoo.com",
+      "id": 27
+    },
+    {
+      "firstName": "Jordane",
+      "lastName": "McLaughlin",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Bridgette96@gmail.com",
+      "id": 28
+    },
+    {
+      "firstName": "Paula",
+      "lastName": "Deckow",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Lee_Durgan@yahoo.com",
+      "id": 29
+    },
+    {
+      "firstName": "Gertrude",
+      "lastName": "Robel",
+      "writingNo": 38,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Amiya.Flatley@hotmail.com",
+      "id": 30
+    },
+    {
+      "firstName": "Mackenzie",
+      "lastName": "Lindgren",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Luis.Lynch@hotmail.com",
+      "id": 31
+    },
+    {
+      "firstName": "Daphnee",
+      "lastName": "Kautzer",
+      "writingNo": 0,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Arnoldo.Abernathy@gmail.com",
+      "id": 32
+    },
+    {
+      "firstName": "Alexie",
+      "lastName": "Wolf",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Haleigh.Turner42@yahoo.com",
+      "id": 33
+    },
+    {
+      "firstName": "Ward",
+      "lastName": "Hegmann",
+      "writingNo": 1,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Winona_Brekke8@hotmail.com",
+      "id": 34
+    },
+    {
+      "firstName": "Guillermo",
+      "lastName": "Jones",
+      "writingNo": 55,
+      "classesNo": 41,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Spencer90@gmail.com",
+      "id": 35
+    },
+    {
+      "firstName": "Jay",
+      "lastName": "O'Reilly",
+      "writingNo": 22,
+      "classesNo": 15,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Nestor.Collins47@yahoo.com",
+      "id": 36
+    },
+    {
+      "firstName": "Angelo",
+      "lastName": "Goldner",
+      "writingNo": 55,
+      "classesNo": 1,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Jordyn83@yahoo.com",
+      "id": 37
+    },
+    {
+      "firstName": "Deborah",
+      "lastName": "Hudson",
+      "writingNo": 55,
+      "classesNo": 6,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Jaylen29@gmail.com",
+      "id": 38
+    },
+    {
+      "firstName": "Davon",
+      "lastName": "Fisher",
+      "writingNo": 11,
+      "classesNo": 8,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "William_Kassulke47@gmail.com",
+      "id": 39
+    },
+    {
+      "firstName": "Ryan",
+      "lastName": "Mayer",
+      "writingNo": 156,
+      "classesNo": 10,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Logan45@yahoo.com",
+      "id": 40
+    },
+    {
+      "firstName": "Samanta",
+      "lastName": "Conn",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Gina68@hotmail.com",
+      "id": 41
+    },
+    {
+      "firstName": "Andreane",
+      "lastName": "Haag",
+      "writingNo": 55,
+      "classesNo": 32,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Demetris4@yahoo.com",
+      "id": 42
+    },
+    {
+      "firstName": "Tyshawn",
+      "lastName": "Dickinson",
+      "writingNo": 22,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Wiley57@hotmail.com",
+      "id": 43
+    },
+    {
+      "firstName": "Elbert",
+      "lastName": "Halvorson",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Antwon83@gmail.com",
+      "id": 44
+    },
+    {
+      "firstName": "Diego",
+      "lastName": "Wisozk",
+      "writingNo": 55,
+      "classesNo": 71,
+      "status": "archived",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Lexi.Wolf75@yahoo.com",
+      "id": 45
+    },
+    {
+      "firstName": "Dario",
+      "lastName": "Kulas",
+      "writingNo": 55,
+      "classesNo": 23,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Camryn.Dickens76@gmail.com",
+      "id": 46
+    },
+    {
+      "firstName": "Retta",
+      "lastName": "Lang",
+      "writingNo": 55,
+      "classesNo": 69,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Clifton18@hotmail.com",
+      "id": 47
+    },
+    {
+      "firstName": "Jaunita",
+      "lastName": "Veum",
+      "writingNo": 55,
+      "classesNo": 14,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Maiya.DAmore@yahoo.com",
+      "id": 48
+    },
+    {
+      "firstName": "Jeremy",
+      "lastName": "Cremin",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Cooper94@hotmail.com",
+      "id": 49
+    },
+    {
+      "firstName": "Mossie",
+      "lastName": "Cormier",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Rusty46@yahoo.com",
+      "id": 50
+    },
+    {
+      "firstName": "Evan",
+      "lastName": "Bradtke",
+      "writingNo": 55,
+      "classesNo": 22,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Max_Leannon97@hotmail.com",
+      "id": 51
+    },
+    {
+      "firstName": "Willie",
+      "lastName": "Hayes",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Brigitte44@yahoo.com",
+      "id": 52
+    },
+    {
+      "firstName": "Kenton",
+      "lastName": "Funk",
+      "writingNo": 55,
+      "classesNo": 88,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Robyn.Cummings68@gmail.com",
+      "id": 53
+    },
+    {
+      "firstName": "Conner",
+      "lastName": "Kulas",
+      "writingNo": 55,
+      "classesNo": 12,
+      "status": "active",
+      "lastUpload": "11.08.2023",
+      "classes": [
+        "Psychology 101",
+        "CompSci",
+        "Philosophy 924",
+        "Culturology  555",
+        "Psychology"
+      ],
+      "email": "Desiree1@yahoo.com",
+      "id": 54
+    }
+  ],
+  "assessments": [
+    {
+      "id": 1,
+      "assignmentName": "The Interplay between Science and Society: Mutual Influence and Prospects",
+      "prompt": "Neque, faucibus fames at et rhoncus pellentesque. Scelerisque commodo nunc tellus, elit semper tempus. Tristique ac tincidunt velit netus ipsum rutrum id ut. Vel metus, condimentum ut amet, lectus neque tincidunt placerat. Neque, faucibus fames at et rhoncus pellentesque. Scelerisque commodo nunc tellus, elit semper tempus. Tristique ac tincidunt velit netus ipsum rutrum id ut. Vel metus, condimentum ut amet, lectus neque tincidunt placerat.Neque, faucibus fames at et rhoncus pellentesque. Scelerisque commodo nunc tellus, elit semper tempus. Tristique ac tincidunt velit netus ipsum rutrum id ut. Vel metus, condimentum ut amet, lectus neque tincidunt placerat.\n",
+      "dueDate": "Due 25 Aug,2029",
+      "studentNo": 120,
+      "allToSubmitNo": 24,
+      "submittedNo": 6,
+      "createdAt": "28.01.24",
+      "status": "public",
+      "class": "Psychology 101",
+      "preferences": {
+        "writing_metrics": [
+          "Spelling analysis",
+          "Readability",
+          "Flesch kincaid analysis"
+        ],
+        "criterion": [
+          "Flesch kincaid analysis",
+          "Offer suggestions for writing improvement"
+        ],
+        "readability_metrics": [
+          "Grade level",
+          "Generated with AI analysis",
+          "Word count"
+        ],
+        "essential_analysis": [
+          "Analyze the quality of the thesis statement",
+          "Offer suggestions for writing improvement"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "assignmentName": "Assignment Name",
+      "dueDate": "Due 02 Aug,2023",
+      "studentNo": 10,
+      "allToSubmitNo": 34,
+      "submittedNo": 0,
+      "createdAt": "20.02.21",
+      "status": "public",
+      "class": "Math 204",
+      "preferences": {
+        "writing_metrics": [],
+        "criterion": [
+          "Condense each paragraph into a summary",
+          "Readability"
+        ],
+        "readability_metrics": [],
+        "essential_analysis": []
+      }
+    },
+    {
+      "id": 3,
+      "paperNo": 3,
+      "createdAt": "05.05.19",
+      "status": "personal",
+      "preferences": {
+        "writing_metrics": [],
+        "criterion": [
+          "Condense each paragraph into a summary",
+          "Readability"
+        ],
+        "readability_metrics": [],
+        "essential_analysis": []
+      }
+    },
+    {
+      "id": 4,
+      "dueDate": "Due 01 Aug,2019",
+      "createdAt": "05.05.19",
+      "status": "draft"
+    },
+    {
+      "id": 5,
+      "prompt": "The Interplay between Science and Society: Mutual Influence and Prospects",
+      "dueDate": "Due 15 Aug,2023",
+      "studentNo": 10,
+      "allToSubmitNo": 34,
+      "submittedNo": 19,
+      "createdAt": "12.09.24",
+      "status": "archived",
+      "class": "Math 204",
+      "preferences": {
+        "writing_metrics": [],
+        "criterion": [],
+        "readability_metrics": [],
+        "essential_analysis": []
+      }
+    },
+    {
+      "id": 6,
+      "prompt": "The Interplay between Science and Society: Mutual Influence and Prospects",
+      "dueDate": "Due 29 Jul,2018",
+      "studentNo": 74,
+      "allToSubmitNo": 83,
+      "submittedNo": 52,
+      "createdAt": "16.02.18",
+      "status": "public",
+      "class": "Computer Science 501",
+      "preferences": {
+        "writing_metrics": [],
+        "criterion": [],
+        "readability_metrics": [],
+        "essential_analysis": []
+      }
+    },
+    {
+      "id": 7,
+      "prompt": "The Interplay between Science and Society: Mutual Influence and Prospects",
+      "dueDate": "Due 29 Jul,2018",
+      "studentNo": 74,
+      "allToSubmitNo": 83,
+      "submittedNo": 52,
+      "createdAt": "16.02.18",
+      "status": "public",
+      "class": "Computer Science 501",
+      "preferences": {
+        "writing_metrics": [],
+        "criterion": [],
+        "readability_metrics": [],
+        "essential_analysis": []
+      }
+    },
+    {
+      "id": 8,
+      "prompt": "The Interplay between Science and Society: Mutual Influence and Prospects",
+      "dueDate": "Due 29 Jul,2018",
+      "studentNo": 74,
+      "allToSubmitNo": 83,
+      "submittedNo": 52,
+      "createdAt": "16.02.18",
+      "status": "public",
+      "class": "Computer Science 501",
+      "preferences": {
+        "writing_metrics": [],
+        "criterion": [
+          "item one"
+        ],
+        "readability_metrics": [],
+        "essential_analysis": []
+      }
     }
   ]
 }
