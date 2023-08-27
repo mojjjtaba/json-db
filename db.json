@@ -276,11 +276,13 @@
   ],
   "analyses": [
     {
+      "id": 1,
       "writingMetrics": {
         "averageWordLength": 8965,
         "averageSentenceLength": 985,
-        "numberOfParagraphs": 78985,
-        "numberOfSentences": 78985,
+        "averageSentencePerParagraph": 85231,
+        "numberOfParagraphs": 22985,
+        "numberOfSentences": 45985,
         "wordCount": 178985,
         "readingTime": "⁓ 9 min"
       },
@@ -341,56 +343,127 @@
           "paragraphNumber": 124
         }
       ],
+      "grammarCheck": [
+        {
+          "wrongWord": "Missed comma",
+          "correctWord": "and",
+          "paragraphNumber": 34
+        },
+        {
+          "wrongWord": "Missed comma",
+          "correctWord": "...thoughts, emotions, and sensations",
+          "paragraphNumber": 11
+        },
+        {
+          "wrongWord": "Incorrect pronoun usage",
+          "correctWord": "which can",
+          "paragraphNumber": 9
+        },
+        {
+          "wrongWord": "Incorrect pronoun usage",
+          "correctWord": "which can",
+          "paragraphNumber": 324
+        },
+        {
+          "wrongWord": "Incorrect pronoun usage",
+          "correctWord": "which can",
+          "paragraphNumber": 33
+        },
+        {
+          "wrongWord": "Incorrect pronoun usage",
+          "correctWord": "which can",
+          "paragraphNumber": 77
+        },
+        {
+          "wrongWord": "Incorrect pronoun usage",
+          "correctWord": "which can",
+          "paragraphNumber": 120
+        },
+        {
+          "wrongWord": "Incorrect pronoun usage",
+          "correctWord": "which can",
+          "paragraphNumber": 567
+        },
+        {
+          "wrongWord": "Incorrect pronoun usage",
+          "correctWord": "which can",
+          "paragraphNumber": 232
+        }
+      ],
       "readabilityMetrics": {
-        "fleshReadingEase": 60,
-        "SMOGIndexSimpleMeasure1969": 24,
-        "fleschKincaidGradeLevel1948": 44,
-        "daleChallReadabilityFormula1995": 10,
-        "gunningFogIndexReadingScore1952": 70,
-        "vaistaReadabilityCategory2023": 89
+        "fleschKincaidGradeLevel1948": 4,
+        "SMOGIndexSimpleMeasure1969": 7,
+        "gunningFogIndexReadingScore1952": 11,
+        "daleChallReadabilityFormula1995": 16
       },
+      "SentimentToneAnalysis": "The paper has a calm and positive tone. The descriptions of nature and the serene landscape create a peaceful atmosphere. The use of phrases like \"soothing symphony\" and \"tranquil ambiance\" contribute to the serene tone. The contrast between the bustling city and the quiet oasis emphasizes the theme of finding respite. Overall, the sentiment is optimistic and appreciative of the beauty of nature's tranquility amid the urban rush.",
       "essentialAnalysis": [
         {
+          "id": 1,
           "title": "Extract the thesis statement",
           "description": "The thesis statement in this paper is as follows: \"This paper examines the relationship between Trevor Noah and his mother in his memoir 'Born a Crime,' exploring how the intricacies and constraints of their relationship in the context of apartheid-era South Africa influenced Noah’s character development and his understanding of racial identities.\"\nThe quality of this thesis statement is quite good. It effectively and concisely communicates the main focus and objective of the paper. It clearly states what the paper aims to explore (the relationship between Trevor Noah and his mother) and the specific context in which this relationship is examined (apartheid-era South Africa). Additionally, the thesis highlights the two main aspects that will be analyzed: Noah's character development and his understanding of racial identities, both influenced by the intricacies and constraints of his relationship with his mother.\nThe thesis statement also sets a clear direction for the reader, indicating what they can expect to find in the paper. It provides a strong foundation for the subsequent analysis and discussion, guiding the reader through the paper's main arguments.\nOverall, the thesis statement is well-written, focused, and informative, making it an effective guide for the paper's content. It serves its purpose in conveying the paper's scope and central theme, allowing readers to understand the paper's purpose from the outset."
         },
         {
-          "title": "Conduct a structural analysis of paragraphs",
+          "id": 2,
+          "title": "Summarize the writing into an abstract",
           "description": "Opening sentence: Introduces the topic of the paper (literacy analysis of Trevor Noah's \"Born a Crime\").\nMiddle sentences: Provide background information about Trevor Noah and his book.\nThesis statement: Clearly states the main focus of the paper, examining the relationship between Trevor Noah and his mother in the context of apartheid-era South Africa."
         },
         {
-          "title": "Summarize the writing into an abstract",
+          "id": 3,
+          "title": "Condense each paragraph into a summary",
           "description": "Silence is golden"
         },
         {
-          "title": "Offer suggestions for writing improvement",
+          "id": 4,
+          "title": "Analyze the quality of the thesis statement",
           "description": "Silence is golden"
         },
         {
+          "id": 5,
+          "title": "Conduct a structural analysis of paragraphs",
+          "description": "Silence is golden"
+        },
+        {
+          "id": 6,
           "title": "Provide analysis on the writing's clarity",
           "description": "Silence is golden"
         },
         {
-          "title": "Analyze the quality of the thesis statement",
+          "id": 7,
+          "title": "Analyze the quality of the conclusion",
+          "description": "Silence is golden"
+        },
+        {
+          "id": 8,
+          "title": "Determine the strengths of the writing",
+          "description": "Silence is golden"
+        },
+        {
+          "id": 9,
+          "title": "Offer suggestions for improvement",
           "description": "Silence is golden"
         }
       ],
       "customizedAnalysis": [
         {
           "question": "How many times is \"Good bye\" mentioned?",
-          "answer": "\"Good bye\" is not mentioned in this paper."
+          "answer": "\"Good bye\" <span style='color: #E92215;'>is not mentioned</span> in this paper.",
+          "status": false
         },
         {
           "question": "How many times is \"Babe Ruth\" mentioned?",
-          "answer": "\"Babe Ruth\" is mentioned 32 times in this paper."
+          "answer": "\"Babe Ruth\" <span style='color: #1B4DFF;'>is mentioned 32</span> times in this paper.",
+          "status": true
         },
         {
           "question": "How many times is \"Hello\" mentioned?",
-          "answer": "\"Hello\" is not mentioned in this paper."
+          "answer": "\"Hello\" <span style='color: #E92215;'>is not mentioned</span> in this paper.",
+          "status": false
         },
         {
           "question": "Analyze the introduction of this paper",
-          "answer": "Neque, faucibus fames at et rhoncus pellentesque. Scelerisque commodo nunc tellus, elit semper tempus. Tristique ac tincidunt velit netus ipsum rutrum id ut. Vel metus, condimentum ut amet, lectus neque tincidunt placerat. Neque, faucibus fames at et rhoncus pellentesque. Scelerisque commodo nunc tellus, elit semper tempus. Tristique ac tincidunt velit netus ipsum rutrum id ut. Vel metus, condimentum ut amet, lectus neque tincidunt placerat."
+          "answer": "Neque, faucibus fames at et rhoncus pellentesque. Scelerisque commodo nunc tellus, elit semper tempus. Tristique ac tincidunt velit netus ipsum rutrum id ut. Vel metus, condimentum ut amet, lectus neque tincidunt placerat. Neque, faucibus fames at et rhoncus pellentesque. Scelerisque commodo nunc tellus, elit semper tempus. Tristique ac tincidunt velit netus ipsum rutrum id ut. Vel metus, condimentum ut amet, lectus neque tincidunt placerat.",
+          "status": true
         }
       ]
     }
@@ -409,7 +482,8 @@
         "Culturology  555",
         "Math 202"
       ],
-      "email": "example@gmail.com"
+      "email": "example@gmail.com",
+      "avatar": "https://www.clinicdermatech.com/images/men-service-face.jpg"
     },
     {
       "id": 2,
